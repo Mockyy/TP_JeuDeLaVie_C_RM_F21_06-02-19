@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1549453314 source:c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\jeu de la vie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"defineform.h"
+
+1549451433 source:c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\jeu de la vie\cellule.c
+	"defineform.h"
+
+1548846791 c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\jeu de la vie\cellule.h
+
+1548843771 c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\jeu de la vie\forme.h
+	"defineform.h"
+
+1549446807 c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\jeu de la vie\defineform.h
+	<stdlib.h>
+	"cellule.h"
+	"forme.h"
+	"vue.h"
+	"fichierExterne.h"
+
+1548845517 c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\jeu de la vie\vue.h
+
+1549026029 source:c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\jeu de la vie\vue.c
+	<stdio.h>
+	"defineform.h"
+
+1549451511 source:c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\jeu de la vie\forme.c
+	"defineform.h"
+	<stdio.h>
+	<time.h>
+
+1549027005 c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\jeu de la vie\fichierexterne.h
+	<stdio.h>
+	<stdlib.h>
+
+1549452717 source:c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\jeu de la vie\fichierexterne.c
+	<stdio.h>
+	<stdlib.h>
+	"defineform.h"
+
+1549445438 c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\jeu de la vie\menu.h
+
+1549446385 source:c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\jeu de la vie\menu.c
+	"defineform.h"
+
